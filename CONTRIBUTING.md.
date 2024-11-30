@@ -1,0 +1,14 @@
+# Contributing to [Project Name]
+
+Thank you for considering contributing to this project! Here are some guidelines to help you get started.
+
+## Submitting Issues
+1. Check the [issues page](https://github.com/your-repository-name/issues) to ensure the issue doesn't already exist.
+2. If your issue isn't listed, click **"New Issue"** and provide a clear and concise description.
+3. Include steps to reproduce the issue, screenshots, and any relevant information.
+
+## Creating Pull Requests
+1. Fork the repository and clone your fork locally.
+2. Create a new branch for your feature or bugfix:
+   ```bash
+   git checkout -b feature-or-bug-name
